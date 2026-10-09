@@ -3,6 +3,7 @@
 A next-generation banking experience for South Africa, pitched to Standard Bank as a partnership to elevate its app.
 
 - [**Pitch to Standard Bank**](docs/pitch-standard-bank.md)
+- [Focus areas: onboarding, credit, payments, fraud](docs/focus-areas.md)
 - [Product vision & differentiation](docs/product.md)
 - [System architecture](docs/architecture.md)
 - [Regulatory & compliance path](docs/compliance.md)
